@@ -63,4 +63,4 @@ To see the live demo, please click [here](https://auth-buddy.vercel.app/)
 
 ## Folder Structure
 
-Please follow this [link](https://github.com/aditya-v22/auth-buddy/FOLDER_STRUCTURE.md) to see the folder structure for the application.
+Please follow this [link](https://github.com/aditya-v22/auth-buddy/blob/main/FOLDER_STRUCTURE.md) to see the folder structure for the application.
